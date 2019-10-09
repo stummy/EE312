@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/EE_312___Project_5.dir/String.c.o CMakeFiles/EE_312___Project_5.dir/Proj5Test.c.o  -o EE_312___Project_5 

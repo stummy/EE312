@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hyalithus/Documents/School/Year 2/Fall 2017/EE 312 - Project 4/cipher.c
+stdio.h
+-
+string.h
+-
+

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hyalithus/Documents/School/Year 2/Fall 2017/EE 312 - Project 7/Recursive.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+string.h
+-
+
+/Users/hyalithus/Documents/School/Year 2/Fall 2017/EE 312 - Project 7/Recursive.h
+stdbool.h
+-
+
+/Users/hyalithus/Documents/School/Year 2/Fall 2017/EE 312 - Project 7/RecursiveTester.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+Recursive.h
+/Users/hyalithus/Documents/School/Year 2/Fall 2017/EE 312 - Project 7/Recursive.h
+

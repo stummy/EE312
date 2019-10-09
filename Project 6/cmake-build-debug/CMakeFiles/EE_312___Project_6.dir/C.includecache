@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hyalithus/Documents/School/Year 2/Fall 2017/EE 312 - Project 6/Poly.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdbool.h
+-
+Poly.h
+/Users/hyalithus/Documents/School/Year 2/Fall 2017/EE 312 - Project 6/Poly.h
+
+/Users/hyalithus/Documents/School/Year 2/Fall 2017/EE 312 - Project 6/Poly.h
+stdbool.h
+-
+
+/Users/hyalithus/Documents/School/Year 2/Fall 2017/EE 312 - Project 6/Proj6Test.c
+stdio.h
+-
+string.h
+-
+Poly.h
+/Users/hyalithus/Documents/School/Year 2/Fall 2017/EE 312 - Project 6/Poly.h
+
